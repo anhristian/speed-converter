@@ -9,6 +9,7 @@ public class Main {
 
     SpeedConverter.printConversion(10.5);
     MegaBytesConverter.printMegaBytesAndKiloBytes(2500);
+    LeapYear.isLeapYear(-1600);
   }
 
 
